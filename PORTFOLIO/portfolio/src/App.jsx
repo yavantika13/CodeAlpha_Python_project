@@ -137,15 +137,14 @@ export default function App() {
             View Projects →
           </a>
 
-          {/* Resume Button */}
-          <a
-            href="/resume.pdf"
-            target="_blank"
-            rel="noreferrer"
-            className="px-7 py-3 border border-gray-400 rounded-xl hover:bg-white hover:text-black transition"
-          >
-            Download Resume
-          </a>
+         {/* Resume Button */}
+         <a
+          href="/Avantika-Yadav-Resume.pdf"
+          download="Avantika-Yadav-Resume.pdf"
+          className="px-7 py-3 border border-gray-400 rounded-xl hover:bg-white hover:text-black transition"
+         >
+          Download Resume
+         </a>
 
         </div>
       </section>
