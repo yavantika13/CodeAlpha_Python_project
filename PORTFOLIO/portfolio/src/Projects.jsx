@@ -18,7 +18,7 @@ export default function Projects() {
       desc: "Responsive restaurant website with modern UI, menu sections, and interactive design.",
       tech: "HTML, CSS",
       github: "https://github.com/yavantika13/restaurant-website",
-      live: "#",
+      live: "https://github.com/yavantika13/Restaurant-website",
     },
     {
       title: "Weather App",
@@ -26,7 +26,7 @@ export default function Projects() {
       desc: "Real-time weather app using OpenWeather API to display temperature, humidity, and wind details.",
       tech: "HTML, CSS, JavaScript",
       github: "https://github.com/yavantika13/Weather-app",
-      live: "#",
+      live: "https://weather-ew8y2ysir-avantika7.vercel.app",
     },
   ];
 
